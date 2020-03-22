@@ -1,0 +1,7 @@
+https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/#post-route
+
+Use terminal and open 2 session:
+
+Run 'python app.py' and go to http://localhost:5000/
+
+Run 'npm run serve' and go to http://localhost:8080/
